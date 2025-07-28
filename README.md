@@ -20,6 +20,7 @@ the route are recorded.
 
  Each route has a route identification number, origin, destination, distance, classification (e.g.
 domestic or international route).
+
  Each aircraft has its own crew (major pilot, assistant pilot and two hostesses), the aircraft crew
 not stored as employees.
 
